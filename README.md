@@ -22,6 +22,7 @@ A new Windows stealer, logs are via telegram bot. ✨The price for a lifetime li
 
 ### Log:
 ![image](https://github.com/YellowKnife802/DotStealer/assets/156382357/d2328286-e582-404e-b5bf-4bb3410b832c)
-![image](https://github.com/YellowKnife802/DotStealer/assets/156382357/113ab154-7845-474c-a316-60b80c00cc22)
+![image](https://github.com/YellowKnife802/DotStealer/assets/156382357/1a44a9d7-e641-4510-913f-172f9889dfa9)
+
 
 ## ♦️I AM NOT RESPONSIBLE FOR ANY ILEGAL USAGE OF THIS TOOL♦️
