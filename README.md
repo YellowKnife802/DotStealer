@@ -1,4 +1,4 @@
-# DotStealer
+# DotStealer (V1.3)
 A new Windows stealer, logs are via telegram bot. ✨The price for a lifetime license is 25$✨. Contact me by Telegram to buy: **<em>@shinyenigma</em>**
 ## Features
 <br>🔸Easy-to-use compact builder
@@ -18,10 +18,10 @@ A new Windows stealer, logs are via telegram bot. ✨The price for a lifetime li
 <br>🔸Computer info stealing: IP, location, username, RAM, GPU etc
 ## Screenshots
 ### Builder:
-![image](https://github.com/YellowKnife802/DotStealer/assets/156382357/18a024ea-20bc-4993-98b9-aa81bb182b9f)
+![image](https://github.com/YellowKnife802/DotStealer/assets/156382357/d6913e39-a96b-4b37-a603-13c7766e9e85)
 
 ### Log:
-![image](https://github.com/YellowKnife802/DotStealer/assets/156382357/77ea434e-d353-4dd0-a0bf-82483a456348)
+![image](https://github.com/YellowKnife802/DotStealer/assets/156382357/d2328286-e582-404e-b5bf-4bb3410b832c)
 ![image](https://github.com/YellowKnife802/DotStealer/assets/156382357/113ab154-7845-474c-a316-60b80c00cc22)
 
 ## ♦️I AM NOT RESPONSIBLE FOR ANY ILEGAL USAGE OF THIS TOOL♦️
