@@ -1,4 +1,4 @@
-# DotStealer (V1.3)
+# DotStealer
 A new Windows stealer, logs are via telegram bot. ✨The price for a lifetime license is 25$✨. Contact me by Telegram to buy: **<em>@shinyenigma</em>**
 ## Features
 <br>🔸Easy-to-use compact builder
