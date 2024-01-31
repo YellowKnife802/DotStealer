@@ -4,7 +4,7 @@ A new Windows stealer, logs are via telegram bot. ✨The price for a lifetime li
 <br>🔸Easy-to-use compact builder
 <br>🔸Client works on Windows 7 and higher (32 and 64 bit)
 <br>🔸Anti doble-launch
-<br>🔸Anti VM
+<br>🔸Anti VM launch
 <br>🔸Anti-debug
 <br>🔸Single .net exe without dependences
 <br>🔸Grabs Desktop files
