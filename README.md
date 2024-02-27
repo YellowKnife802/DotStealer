@@ -15,7 +15,7 @@ A new Windows stealer, logs are via telegram bot. ✨The price for a lifetime li
 <br>🔸Grabs desktops screenshot
 <br>🔸Metamask data stealing
 <br>🔸Exodus data stealing
-<br>🔸Computer info stealing: IP, location, username, RAM, GPU etc
+<br>🔸Computer info stealing: IP, location, username, RAM, GPU, HWID etc
 ## Screenshots
 ### Builder:
 ![image](https://github.com/YellowKnife802/DotStealer/assets/156382357/d6913e39-a96b-4b37-a603-13c7766e9e85)
