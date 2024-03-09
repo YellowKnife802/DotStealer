@@ -13,7 +13,7 @@ A new Windows stealer, logs are via telegram bot. ✨The price for a lifetime li
 <br>🔸Discord token grabbing
 <br>🔸Grabs telegram session
 <br>🔸Grabs desktops screenshot
-<br>🔸Metamask data stealing
+<br>🔸Metamask data stealing 
 <br>🔸Exodus data stealing
 <br>🔸Computer info stealing: IP, location, username, RAM, GPU, HWID etc
 ## Screenshots
