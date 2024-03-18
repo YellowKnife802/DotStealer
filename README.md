@@ -1,5 +1,5 @@
 # DotStealer
-A multifunctional Windows stealer, logs are sent via telegram bot (no dedicated server needed). ✨The price for a lifetime license is 25$✨. Contact me by Telegram to buy: **<em>@shinyenigma</em>**
+A multifunctional Windows stealer which sends logs via telegram bot (no dedicated server needed). ✨The price for a lifetime license is 25$✨. Contact me by Telegram to buy: **<em>@shinyenigma</em>**
 ## Features
 <br>🔸Easy-to-use compact builder 
 <br>🔸Client works on Windows 7 and higher (32 and 64 bit)
@@ -18,7 +18,7 @@ A multifunctional Windows stealer, logs are sent via telegram bot (no dedicated 
 <br>🔸Computer info stealing: IP, location, username, RAM, GPU, HWID etc
 ## Screenshots
 ### Builder:
-![image](https://github.com/YellowKnife802/DotStealer/assets/156382357/d6913e39-a96b-4b37-a603-13c7766e9e85)
+![image](https://github.com/YellowKnife802/DotStealer/assets/156382357/89bf621e-d78e-4236-ac69-9552702cb26c)
 
 ### Log:
 ![image](https://github.com/YellowKnife802/DotStealer/assets/156382357/d2328286-e582-404e-b5bf-4bb3410b832c)
