@@ -18,7 +18,7 @@ A multifunctional Windows stealer which sends logs via telegram bot (no dedicate
 <br>🔸Computer info stealing: IP, location, username, RAM, GPU, HWID etc
 ## Screenshots
 ### Builder:
-![image](https://github.com/YellowKnife802/DotStealer/assets/156382357/89bf621e-d78e-4236-ac69-9552702cb26c)
+![image](https://github.com/YellowKnife802/DotStealer/assets/156382357/bf196cc0-78ae-4c04-801a-7a05c27e10a2)
 
 ### Log:
 ![image](https://github.com/YellowKnife802/DotStealer/assets/156382357/d2328286-e582-404e-b5bf-4bb3410b832c)
